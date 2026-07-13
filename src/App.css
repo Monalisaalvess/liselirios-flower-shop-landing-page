@@ -1,0 +1,31 @@
+:root {
+    --cor-verde:        #00460d;
+    --cor-verde-hover:  #005a11;
+    --cor-fundo:        #fffdfa;
+    --cor-fundo-alt:    #f7efe3;
+    --cor-texto:        #1a1a1a;
+
+    --font-principal:   "Quicksand", sans-serif;
+    --fs-titulo:        2.8rem;
+    --fs-subtitulo:     2.5rem;
+    --fs-corpo:         1.3rem;
+
+    --padding-secao:    100px 60px 60px;
+    --altura-navbar:    72px;
+
+    --radius-btn:       10px;
+    --sombra-leve:      0 4px 6px rgba(0,0,0,0.1);
+    --sombra-hover:     0 10px 20px rgba(0,0,0,0.2);
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-principal);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+}
