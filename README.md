@@ -1,16 +1,39 @@
-# React + Vite
+# Lis & lirios - Flower Shop Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page (front-end) para a floricultura Liselirios, desenvolvida com React e Vite. O projeto apresenta a marca, o catálogo de produtos e as informações de contato de forma simples e responsiva.
 
-Currently, two official plugins are available:
+## Link
+https://monalisaalvess.github.io/liselirios-flower-shop-landing-page/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Preview
+<img width="1349" height="591" alt="image" src="https://github.com/user-attachments/assets/0e296854-8a9e-43d7-b15c-f0e7f2ffe56e" />
 
-## React Compiler
+## Funcionalidades
+- Página inicial com apresentação da floricultura
+- Catálogo de produtos
+- Carrinho de compras
+- Navegação entre páginas com React Router
+- Layout responsivo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tecnologias utilizadas
+- React
+- Vite
+- React Router DOM (HashRouter)
+- Context API
+- CSS
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Como rodar o projeto localmente
+
+
+## Deploy
+O projeto é publicado no GitHub Pages através do pacote gh-pages.
+
+## Status do projeto
+Em desenvolvimento
+
+## Autor
+
+Feito por Monalisa
